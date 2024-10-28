@@ -3,92 +3,92 @@ entries:
   prometheus-msteams:
   - apiVersion: v1
     appVersion: v1.3.5
-    created: "2020-05-28T10:40:22.081003+02:00"
+    created: "2024-10-28T17:58:39.303945882+05:30"
     description: A Helm chart for Kubernetes
-    digest: 26c1e020c5f924ada0b9de387b57344f58f89cf449dafdc5761f5d2e031e5981
+    digest: 3ee548cdcd435560d05e1c6acc49a0ee002defda2c0cde7e77813b5c02b06554
     name: prometheus-msteams
     urls:
-    - https://prometheus-msteams.github.io/helm-chart/prometheus-msteams-0.5.1.tgz
+    - prometheus-msteams-0.5.1.tgz
     version: 0.5.1
   - apiVersion: v1
     appVersion: v1.3.4
-    created: "2020-05-28T10:40:22.080379+02:00"
+    created: "2024-10-28T17:58:39.302525942+05:30"
     description: A Helm chart for Kubernetes
     digest: 1da374198714da8614cd75cc094eebe6a80d234531e67e172bef23a39031a69b
     name: prometheus-msteams
     urls:
-    - https://prometheus-msteams.github.io/helm-chart/prometheus-msteams-0.5.0.tgz
+    - prometheus-msteams-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v1
     appVersion: v1.3.4
-    created: "2020-05-28T10:40:22.079165+02:00"
+    created: "2024-10-28T17:58:39.301484202+05:30"
     description: A Helm chart for Kubernetes
     digest: f08abf1ddb382411dbf097d5d7b6a2cdee9332bf43bd4b4359ad12c2f54388c9
     name: prometheus-msteams
     urls:
-    - https://prometheus-msteams.github.io/helm-chart/prometheus-msteams-0.4.7.tgz
+    - prometheus-msteams-0.4.7.tgz
     version: 0.4.7
   - apiVersion: v1
     appVersion: v1.3.3
-    created: "2020-05-28T10:40:22.077662+02:00"
+    created: "2024-10-28T17:58:39.300932541+05:30"
     description: A Helm chart for Kubernetes
     digest: 59944ab80b82c74f37050d87fafbf3f2e26931b4af4b341efd452d0679ee75a8
     name: prometheus-msteams
     urls:
-    - https://prometheus-msteams.github.io/helm-chart/prometheus-msteams-0.4.6.tgz
+    - prometheus-msteams-0.4.6.tgz
     version: 0.4.6
   - apiVersion: v1
     appVersion: v1.3.3
-    created: "2020-05-28T10:40:22.074605+02:00"
+    created: "2024-10-28T17:58:39.300363019+05:30"
     description: A Helm chart for Kubernetes
     digest: 114347c67e4a178040298ada04d766031ae09bda4e43f100c298b99f27f63982
     name: prometheus-msteams
     urls:
-    - https://prometheus-msteams.github.io/helm-chart/prometheus-msteams-0.4.5.tgz
+    - prometheus-msteams-0.4.5.tgz
     version: 0.4.5
   - apiVersion: v1
     appVersion: v1.3.3
-    created: "2020-05-28T10:40:22.073403+02:00"
+    created: "2024-10-28T17:58:39.299820005+05:30"
     description: A Helm chart for Kubernetes
     digest: 111206e694aa78c214ef8377a9697565da170b3176614b587af79421e756a820
     name: prometheus-msteams
     urls:
-    - https://prometheus-msteams.github.io/helm-chart/prometheus-msteams-0.4.4.tgz
+    - prometheus-msteams-0.4.4.tgz
     version: 0.4.4
   - apiVersion: v1
     appVersion: v1.3.2
-    created: "2020-05-28T10:40:22.072277+02:00"
+    created: "2024-10-28T17:58:39.299294862+05:30"
     description: A Helm chart for Kubernetes
     digest: 2901d2c12de4efd75518fc6140991e7e68440b99dab3ea00550d655771d3f4be
     name: prometheus-msteams
     urls:
-    - https://prometheus-msteams.github.io/helm-chart/prometheus-msteams-0.4.3.tgz
+    - prometheus-msteams-0.4.3.tgz
     version: 0.4.3
   - apiVersion: v1
     appVersion: v1.3.1
-    created: "2020-05-28T10:40:22.071224+02:00"
+    created: "2024-10-28T17:58:39.29878455+05:30"
     description: A Helm chart for Kubernetes
     digest: 095493dccd4e1297f991d59708e170c8de9356a221e28f5a0c6f48a637656e15
     name: prometheus-msteams
     urls:
-    - https://prometheus-msteams.github.io/helm-chart/prometheus-msteams-0.4.2.tgz
+    - prometheus-msteams-0.4.2.tgz
     version: 0.4.2
   - apiVersion: v1
     appVersion: v1.3.0
-    created: "2020-05-28T10:40:22.070099+02:00"
+    created: "2024-10-28T17:58:39.298315063+05:30"
     description: A Helm chart for Kubernetes
     digest: ae13dd9ecb270c1b0baf21c1d40c2284fffde983d25a8a55155d817b31fdab52
     name: prometheus-msteams
     urls:
-    - https://prometheus-msteams.github.io/helm-chart/prometheus-msteams-0.4.1.tgz
+    - prometheus-msteams-0.4.1.tgz
     version: 0.4.1
   - apiVersion: v1
     appVersion: v1.2.1
-    created: "2020-05-28T10:40:22.068963+02:00"
+    created: "2024-10-28T17:58:39.297828175+05:30"
     description: A Helm chart for Kubernetes
     digest: feb405381cb4ff43572769f61c4c006cc0c3906844bea4e68aa2f550c2dc3788
     name: prometheus-msteams
     urls:
-    - https://prometheus-msteams.github.io/helm-chart/prometheus-msteams-0.4.0.tgz
+    - prometheus-msteams-0.4.0.tgz
     version: 0.4.0
-generated: "2020-05-28T10:40:22.067666+02:00"
+generated: "2024-10-28T17:58:39.297153592+05:30"

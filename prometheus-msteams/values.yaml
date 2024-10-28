@@ -8,6 +8,9 @@ image:
 
 extraEnvs:
 
+imagePullSecrets:
+  - name: registry-credentials
+
 container:
   port: 2000
   additionalArgs: []
